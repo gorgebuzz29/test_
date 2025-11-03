@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 \# bye
+=======
+\# hola
+>>>>>>> master
 
 \# hello
 
