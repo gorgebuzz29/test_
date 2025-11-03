@@ -1,4 +1,2 @@
-\# hola
-
 \# hello
 
